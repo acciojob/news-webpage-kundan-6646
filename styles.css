@@ -6,6 +6,7 @@ header {
 	background-color : #011e29;
 	color: #fff;
 	padding: 5px;
+	text-align: center;
 }
 
 main {
@@ -17,7 +18,8 @@ main {
 	border-radius: 12px;
 	background-color: white;
 	padding: 10px 8px;
-	margin: auto;
+	margin: 0px auto;
+	text-align: center;
 }
 
 .sm {
@@ -28,7 +30,7 @@ main {
 	width: 40%;
 }
 
-h3, li, p, h1{
+h3, li, p, h2 {
 	 text-align: center;
 }
 
